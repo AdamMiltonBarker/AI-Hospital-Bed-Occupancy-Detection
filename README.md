@@ -166,7 +166,7 @@ Use the **Live classification** feature to record some samples for clasification
 
 Now we will deploy an Arduino library to our device that will allow us to run the model directly on our Arduino Nano 33 BLE Sense.
 
-![Build](assets/images/17-Deployment.jpg "Build")
+![Build](assets/images/17-deployment.jpg "Build")
 
 Head to the deployment tab and select **Arduino Library** then scroll to the bottom and click **Build**.
 
