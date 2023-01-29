@@ -33,7 +33,7 @@ Head over to [Edge Impulse](https://www.edgeimpulse.com) and create your account
 ### Create New Project
 Your first step is to create a new project. From the project selection/creation you can create a new project.
 
-![Create Edge Impulse project](assets/images/1-Create-project.jpg "Create Edge Impulse project")
+![Create Edge Impulse project](assets/images/1-Create-Project.jpg "Create Edge Impulse project")
 
 Enter a **project name**, select **Developer** or **Enterprise** and click **Create new project**.
 
